@@ -1,4 +1,4 @@
-# stickytabs
+# tab2go
 
 A new Flutter project.
 
